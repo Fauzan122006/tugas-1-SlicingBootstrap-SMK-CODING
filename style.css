@@ -1,0 +1,88 @@
+body {
+  font-family: poppins;
+  overflow-x: hidden;
+}
+
+.juduldanharga {
+  display: inline-flex;
+}
+
+.tombol {
+  display: "inline-flex";
+}
+
+.rating {
+  width: 60px;
+  position: absolute;
+  top: 40px;
+  left: 10px;
+  background-color: white;
+  margin-left: 15px;
+  margin-top: -10px;
+}
+
+.rating-star {
+  width: 20px;
+  margin-top: -5px;
+}
+
+.produck {
+  display: inline-flex;
+  margin-top: 30px;
+}
+
+.bg-popular {
+  background-color: #f6eadb;
+  width: 1550px;
+  height: 300px;
+  position: relative;
+  right: 120px;
+}
+
+.bg-produk {
+  background-color: #f9d9aa;
+  top: 80px;
+  position: relative;
+  padding-right: 500px;
+  padding-left: 500px;
+  left: 150px;
+}
+
+.tombol-hot {
+  color: #ff902a;
+  border-color: rgb(255, 144, 42);
+  border-radius: 10px;
+}
+
+.tombol-cold {
+  color: #ffe3bc;
+  border-color: rgb(255, 227, 188);
+  border-radius: 10px;
+}
+
+.cart {
+  background-color: #ff902a;
+  width: 35px;
+  margin-left: 53px;
+}
+
+.card-container {
+  display: inline-flex;
+  position: relative;
+  right: 800px;
+}
+
+.judul-service-span {
+  text-decoration: underline;
+  text-decoration-color: #fe912a;
+}
+
+.service-container {
+  display: inline-flex;
+  margin-left: 150px;
+}
+
+.img-service {
+  width: 150px;
+  margin-left: 30px;
+}
